@@ -1,0 +1,41 @@
+#center, h5{
+    text-align: center;
+  }
+  #underline {
+    text-decoration: underline;
+  }
+  
+  img {
+      max-width: 100%;
+      min-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;
+      padding-top: 0;
+  }
+  body {
+    background-color: rgb(74, 112, 109);
+    text-align: center;
+  }
+  main {
+    color: rgb(200, 240, 240);
+    font-family: monospace;
+  }
+  p {
+    text-align: left
+  }
+  #tribute-link {
+    color: rgb(255, 20, 100)
+  }
+  #starter-info {
+    text-align: center;
+  }
+  ul {
+    text-align: left;
+    margin: 0 auto 50px auto;
+    line-height: 1.5;
+  }
+  #tribute-footer {
+    text-align: center;
+  }
+  
